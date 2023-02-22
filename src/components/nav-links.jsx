@@ -2,10 +2,10 @@ import React from 'react'
 import { NavLink } from 'react-router-dom'
 
 const NAV_LINKS = [
-  { name: 'Contact', to: '/contact' },
-  { name: 'About Us', to: '/about' },
+  { name: 'Contatos', to: '/contact' },
+  { name: 'Sobre', to: '/about' },
   { name: "FAQ's", to: '/faqs' },
-  { name: 'Support', to: '/support' },
+  { name: 'Suporte', to: '/support' },
 ]
 export function NavLinks({ className }) {
   return (

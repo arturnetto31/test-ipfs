@@ -7,8 +7,8 @@ export default function ContactPage() {
   return (
     <Layout>
       <Article>
-        <ArticleContent title="Contact">
-          <p>Add your contact information here.</p>
+        <ArticleContent title="Contatos">
+          <p>Para mais informações.</p>
         </ArticleContent>
 
         <ArticleMedia>

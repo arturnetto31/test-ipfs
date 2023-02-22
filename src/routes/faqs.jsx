@@ -8,7 +8,7 @@ export default function FaqsPage() {
     <Layout>
       <Article>
         <ArticleContent title="FAQ's">
-          <p>Add your FAQ content here.</p>
+          <p>FAQ / Dúvidas frequentes.</p>
         </ArticleContent>
 
         <ArticleMedia>

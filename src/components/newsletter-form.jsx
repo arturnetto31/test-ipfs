@@ -28,7 +28,7 @@ export function NewsletterForm({ className, onSubmit, submitBtn }) {
         </label>
         <input
           required
-          placeholder="Your best email&hellip;"
+          placeholder="Seu melhor email&hellip;"
           id="email"
           name="email"
           type="email"
@@ -39,7 +39,7 @@ export function NewsletterForm({ className, onSubmit, submitBtn }) {
         />
         {success && (
           <div className="mt-2 text-xs italic text-gray-500">
-            Email submitted successfully!
+            Email submetido com sucesso!
           </div>
         )}
       </div>

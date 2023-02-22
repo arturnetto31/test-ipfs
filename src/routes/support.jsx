@@ -7,8 +7,8 @@ export default function SupportPage() {
   return (
     <Layout>
       <Article>
-        <ArticleContent title="Support">
-          <p>Add your support content here.</p>
+        <ArticleContent title="Suporte">
+          <p>Contato para suporte.</p>
         </ArticleContent>
 
         <ArticleMedia>

@@ -7,16 +7,16 @@ export default function AboutPage() {
   return (
     <Layout>
       <Article>
-        <ArticleContent title="About">
+        <ArticleContent title="Sobre">
           <p>
-            Holly is a free HTML/CSS landing page designed and developed by
-            @pacovitiello and @DavidePacilio!
+            Holly é uma página de destino HTML/CSS gratuita projetada e desenvolvida por
+            @pacovitiello e @DavidePacilio!
           </p>
           <p>
-            Holly is suitable for all kind of startups, it's easily
-            customizable, and it's downloadable for personal and commercial use.
+            Holly é adequado para todos os tipos de startups, é facilmente
+            personalizável e pode ser baixado para uso pessoal e comercial.
           </p>
-          <p>This template is distributed under the MIT License.</p>
+          <p>Este modelo é distribuído sob a licença MIT.</p>
         </ArticleContent>
 
         <ArticleMedia>
